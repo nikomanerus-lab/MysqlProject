@@ -1,3 +1,3 @@
 # MysqlProject
 näyttely
-Tietokanta aiheesta näyttely
+Mysql Tietokanta aiheesta näyttely
